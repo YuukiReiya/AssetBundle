@@ -1,3 +1,5 @@
 AssetBundle/Library/
 AssetBundle/Logs/
 AssetBundle/Temp/
+AssetBundle/obj/
+AssetBundle/.vs/
